@@ -1,0 +1,12 @@
+operação: RECOLHE 10 data: 12/12/2013 jogador: Cristiano  Ronaldo valor: 10,000000
+operação: RECOLHE 10 data: 12/12/2013 jogador: Eduardo valor: 10,000000
+operação: RECOLHE 10 data: 12/12/2013 jogador: Hugo Almeida valor: 10,000000
+operação: RECOLHE 10 data: 12/12/2013 jogador: JoÃ£o Moutinho valor: 10,000000
+operação: RECOLHE 8 data: 13/12/2013 jogador: Pepe valor: 8,000000
+operação: RECOLHE 7 data: 15/12/2013 jogador: Rui PatrÃ­cio valor: 6,833332
+operação: PAGA 1 data: 14/12/2013 jogador: Cristiano  Ronaldo valor: 1,400000
+operação: PAGA 1 data: 14/12/2013 jogador: Eduardo valor: 1,400000
+operação: PAGA 1 data: 14/12/2013 jogador: Hugo Almeida valor: 1,400000
+operação: PAGA 1 data: 14/12/2013 jogador: JoÃ£o Moutinho valor: 1,400000
+operação: PAGA 1 data: 14/12/2013 jogador: Pepe valor: 1,400000
+

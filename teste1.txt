@@ -1,0 +1,24 @@
+7
+ENTRAM 10
+André Almeida, Benfica
+Antunes, Málaga
+Cédric Soares, Sporting
+Fábio Coentrão, Real Madrid
+João Pereira, Valência
+Luís Neto, Zenit
+Miguel Lopes, Lyon
+Ricardo Costa, Valência
+Rolando, Inter
+Sereno, Kayserispor
+RECOLHE 20
+PAGA 30
+PAGA 12
+ENTRAM 2
+Beto, Sevilla
+Eduardo, Braga
+PAGA 30
+SAEM 3
+João Pereira, Valência
+Luís Neto, Zenit
+Sereno, Kayserispor
+0

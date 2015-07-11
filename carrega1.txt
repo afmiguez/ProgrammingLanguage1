@@ -1,0 +1,13 @@
+5
+ENTRAM 4 
+Rui Patrício, Sporting
+Pepe, Real Madrid
+João Moutinho, Monaco
+Hugo Almeida, Besiktas
+RECOLHE 10 12/12/2013
+ENTRAM 1 13/12/2013
+Cristiano  Ronaldo,  Real Madrid
+PAGA 7 14/12/2013
+ENTRAM 1 15/12/2013
+Eduardo, Braga
+0

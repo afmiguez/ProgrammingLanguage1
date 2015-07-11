@@ -1,0 +1,25 @@
+4
+ENTRAM 16
+Eduardo, Braga
+Beto, Sevilla
+Bruno Alves, Fenerbahçe
+Fábio Coentrão, Real Madrid
+Ricardo Costa, Valência
+Rolando, Inter
+Antunes, Málaga
+Miguel Lopes, Lyon
+João Pereira, Valência
+Luís Neto, Zenit
+Sereno, Kayserispor
+André Almeida, Benfica
+Cédric Soares, Sporting
+Miguel Veloso, Dínamo de Kiev
+Varela, FC Porto
+Éder, Braga
+RECOLHE 30
+PAGA 8
+SAEM 3
+Miguel Veloso, Dínamo de Kiev
+Varela, FC Porto
+Éder, Braga
+0

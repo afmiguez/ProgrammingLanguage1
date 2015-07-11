@@ -1,0 +1,24 @@
+7
+ENTRAM 10 12/12/2013
+André Almeida, Benfica
+Antunes, Málaga
+Cédric Soares, Sporting
+Fábio Coentrão, Real Madrid
+João Pereira, Valência
+Luís Neto, Zenit
+Miguel Lopes, Lyon
+Ricardo Costa, Valência
+Rolando, Inter
+Sereno, Kayserispor
+RECOLHE 20 12/12/2013
+PAGA 30 13/12/2013
+PAGA 12 14/12/2013
+ENTRAM 2 15/12/2013
+Beto, Sevilla
+Eduardo, Braga
+PAGA 30 20/12/2013
+SAEM 3 21/12/2013
+João Pereira, Valência
+Luís Neto, Zenit
+Sereno, Kayserispor
+0

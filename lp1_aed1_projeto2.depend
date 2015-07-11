@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1388965509 source:c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388965384 source:c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388337565 c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\main.h
+
+1388957288 c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\io.h
+
+1388246856 c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\sort.h
+
+1388944203 source:c:\users\af\desktop\codeblocks\projetos\lp1_aed1_projeto2\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388157580 source:f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388100516 f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\main.h
+
+1388157580 f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\io.h
+
+1388160253 f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\sort.h
+
+1388160771 source:f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388157614 source:f:\aulas_ufp\2_ano\lp\lp1_aed1_projeto2_v4\lp1_aed1_projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388968984 source:c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388341165 c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\main.h
+
+1388960888 c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\io.h
+
+1388250456 c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\sort.h
+
+1409676060 source:c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1409676032 source:c:\users\af\meocloud\3° semestre\aed i\lp1_aed1_projeto2\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388965384 source:c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\io.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1388337565 c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\main.h
+
+1388957288 c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\io.h
+
+1388246856 c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\sort.h
+
+1409672460 source:c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+
+1409672432 source:c:\users\alessandro\meocloud\ufp\3° semestre\aed i\lp1_aed1_projeto2\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	"main.h"
+	"io.h"
+	"sort.h"
+

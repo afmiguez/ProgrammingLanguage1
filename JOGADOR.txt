@@ -1,0 +1,6 @@
+nome: Cristiano  Ronaldo clube: Real Madrid estado: ativo indice: 4
+nome: Eduardo clube: Braga estado: ativo indice: 5
+nome: Hugo Almeida clube: Besiktas estado: ativo indice: 0
+nome: João Moutinho clube: Monaco estado: ativo indice: 1
+nome: Pepe clube: Real Madrid estado: ativo indice: 2
+nome: Rui Patrício clube: Sporting estado: ativo indice: 3
